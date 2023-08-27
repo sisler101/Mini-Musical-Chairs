@@ -1,5 +1,5 @@
 # Mini Musical Chairs
-
+🔗 [Personal Website](https://sites.google.com/view/sashaisler/mini-musical-chairs)
 ## Project Description
 
 - Created a miniaturized musical chairs game that is intended to be played with your fingers.  
